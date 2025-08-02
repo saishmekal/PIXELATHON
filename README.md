@@ -14,4 +14,4 @@ Welcome to **GROWW**, a clean and professional front-end portfolio project desig
 - 📞 **Contact Information in Footer**
 - 🧩 **Modular Code with External JS & CSS**
 
-PREVIEW: growwtcet.netlify.app
+PREVIEW: https://growwtcet.netlify.app/
